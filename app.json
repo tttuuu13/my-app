@@ -1,6 +1,10 @@
 {
   "expo": {
     "name": "my-app",
-    "slug": "my-app"
+    "slug": "my-app",
+    "scheme": "my-app",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
